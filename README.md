@@ -12,4 +12,4 @@ A website that generates a password
 
 
 ## Screenshot
-
+<img src="./screenshot.jpg" alt="" />
