@@ -9,7 +9,7 @@ A website that generates a password
 * JavaScript
 
 ## Website
-
+https://infinissible.github.io/Ch03-Passwordgenerator/
 
 ## Screenshot
 <img src="./screenshot.jpg" alt="" />
