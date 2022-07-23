@@ -1,4 +1,4 @@
-# Password Generator
+# SMART-Password-Generator
 
 ## Purpose
 A website that generates a password
